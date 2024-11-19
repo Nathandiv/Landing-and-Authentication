@@ -6,6 +6,6 @@ import { RegisterloginComponent } from './Authentic/registerlogin/registerlogin.
 export const routes: Routes = [
     {path:'',component:LandingPpageComponent},
     {path:'login',component:LoginComponent},
-    {path:'register',component:RegisterloginComponent},
+    {path:'registerlogin',component:RegisterloginComponent},
 
 ];
